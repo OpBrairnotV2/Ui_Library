@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.tokinu.site/raw/ioi"))()
+loadstring(game:HttpGet("https://www.tokinu.site/raw/MYMP7jN8"))()
